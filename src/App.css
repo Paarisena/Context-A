@@ -1,0 +1,35 @@
+#root {
+  max-width: 1341px;
+  margin: 0;
+  padding: 20rem;
+  text-align: center;
+}
+body{
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.title{
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+}
+.th{
+  font-size: 50px;
+  display: flex;
+  justify-content:center ;
+  position:relative;
+  row-gap: 2rem;
+  padding: 20px;
+}
+
+.td{
+  font-size: 50px;
+  display: flex;
+  column-gap: 2rem;
+  padding: 40px;
+  position: relative;
+}
+
